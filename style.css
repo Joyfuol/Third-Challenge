@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+  body{ 
+    height: 100vh;
+    background: white;
+    width: 100%;
+} 
+
+ /* .hero{
+    height: 80vh; 
+    width: 100%;  
+    background: rgb(12, 49, 83) ;
+}   
+
+
+
+nav{
+    display: flex;
+    /* gap: 50%; */
+    /* padding: 30px 30px; */
+
+
+
+.btn{
+    background: none;
+    color: white;
+    border: none;
+    text-decoration: underline;
+    text-decoration-color: aquamarine;
+/* }  */
+
+/* .middlehero{
+    display: flex;
+    gap: 10%;
+}  
+
+h1{
+    color: white;
+    font-size: xx-large;
+
+    
+}
+.text{
+    padding-left:  40%; 
+    align-content: center;
+    
+     
+     
+} 
+
+.img1{
+    justify-content: flex-start;
+
+}
+
+.img2{
+    padding: 0 20px;
+}  */ 
+
+/* .btn2{
+    background: aquamarine;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.foothero{
+    margin-bottom: 700px;  */
+    /* padding: 0 500px;
+} */
